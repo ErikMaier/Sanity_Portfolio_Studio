@@ -1,0 +1,3 @@
+Start npm
+
+To start Sanity -> cd to the studio folder, then sanity start
