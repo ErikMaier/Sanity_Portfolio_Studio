@@ -29,11 +29,7 @@ export default function About() {
 
   return (
     <main className="relative min-h-screen">
-      <img
-        src={background}
-        alt="Background Image"
-        className="absolute h-full"
-      />
+      <img src={background} alt="Background" className="absolute h-full" />
       <div className="p-10 lg:pt-48 container mx-auto relative">
         <section className="bg-green-800 rounded-lg shadow-2xl lg:flex p-20">
           <img
