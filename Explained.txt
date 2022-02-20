@@ -1,3 +1,7 @@
 Start npm
 
 To start Sanity -> cd to the studio folder, then sanity start
+
+npm install @sanity/image-url
+
+npm install @sanity/block-content-to-react
